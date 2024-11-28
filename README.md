@@ -22,8 +22,7 @@ Make sure you have the following before running the project:
 
 ![Screenshot 2024-11-28 225900](https://github.com/user-attachments/assets/ebf08878-1d91-4d9e-890b-a77ae6e17ff9)
 
-
-
+Name : Aditya Dhotre PRN : 1032221148 EMAIL: adityadhotre50@gmail.com CONTACT : 8483809321
 
 
 
