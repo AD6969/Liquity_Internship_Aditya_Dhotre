@@ -1,6 +1,6 @@
-# Liquity_Internship_Aditya_Dhotre
-
 ### Legal Research Chatbot
+
+
 The Legal Research Chatbot is a Python-based tool designed to assist users with legal queries by retrieving information from PDF documents stored on Google Drive. It leverages machine learning techniques such as embeddings, document retrieval, and generative models for effective question answering.
 
 ### Key Features:
